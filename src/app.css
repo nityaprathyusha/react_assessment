@@ -1,0 +1,10 @@
+.center {
+ height: 500px;
+ display: flex;
+ align-items: center;
+ justify-content: center !important;
+
+}
+.w-60 {
+    width: 600px;
+}
